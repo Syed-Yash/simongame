@@ -59,10 +59,15 @@ body {
   margin: 10% auto;
   background-color: #011F3F;
   height: 50px;
+  padding: auto;
   font-size: 20px;
   font-family: 'Press Start 2P', cursive;
   color: #FEF2BF;
   border: 10px solid  #FEF2BF;
+}
+
+.text{
+  padding: 20px auto;
 }
 
 .pressed {
